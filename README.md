@@ -1,4 +1,4 @@
-# Introduction-to-Data-Science-and-Artificial-Intelligence
+# Introduction to Data Science and Artificial Intelligence Project
 Classification of Earthquake Damage Severity based on building characteristics
 
 This project is done for the Singapore NTU SCSE module CE1015 Introduction to Data Science and Artificial Intelligence. It is based off an online competition on [DrivenData](https://www.drivendata.org/competitions/57/nepal-earthquake/).
